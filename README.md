@@ -8,6 +8,7 @@
 - Mặc định luyện từng chương, giải thích ngay sau mỗi câu; có chế độ kiểm tra và ôn câu sai/câu đã lưu.
 - Tài liệu ôn tập đầy đủ 5 chương ngay trong ứng dụng; dùng trên điện thoại, máy tính bảng và máy tính.
 - Lưu tiến độ trên trình duyệt; xuất/nhập bản sao JSON trong tab **Tiến độ** để chuyển thiết bị.
+- Giao diện tối mặc định để đọc ban đêm. Nút **Chế độ sáng / Chế độ tối** ở đầu trang lưu lựa chọn riêng, không ảnh hưởng tiến độ học.
 
 ## Học trên điện thoại
 
